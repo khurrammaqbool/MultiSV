@@ -1,4 +1,4 @@
 MultiSV
 =======
 
-A utility to identify structural variants in multiple samples
+A tool to identify Structural Variants in Multiple populations
